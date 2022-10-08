@@ -1,0 +1,15 @@
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\BillPay.exe
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\BillPay.deps.json
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\BillPay.runtimeconfig.json
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\BillPay.dll
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\BillPay.pdb
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BillPay.csproj.AssemblyReference.cache
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BillPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BillPay.AssemblyInfoInputs.cache
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BillPay.AssemblyInfo.cs
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BillPay.csproj.CoreCompileInputs.cache
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BillPay.dll
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\BillPay.dll
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BillPay.pdb
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\BillPay.genruntimeconfig.cache
+C:\Users\Falaskie\Documents\GitHub\Visual-Class-Project\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\BillPay.dll
