@@ -12,7 +12,7 @@ namespace BillPay
         double FEAdjust = 0.0;
         double FuelIPP = 0.0;
         double result = 0.0;
-        public BeforeTax(double subtotal, double fEAdjust, double fuelIPP)
+        public double BeforeTa(double subtotal, double fEAdjust, double fuelIPP)
         {
             Subtotal = subtotal;
             FEAdjust = fEAdjust;
