@@ -11,7 +11,7 @@ namespace BillPay
        private double rate = 0.165;
         int Usage = 0;
 
-        public GCT( int usage)
+        public double GCT(int usage)
         {
             Usage = usage;
 
