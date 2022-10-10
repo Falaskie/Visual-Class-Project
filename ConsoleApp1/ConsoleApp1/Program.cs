@@ -32,14 +32,20 @@ customer.LastName = "Brown ";
 customer.AccNum = " 0010310010";
 customer.PremNum = " 450";
 
+//Calculations
 CurrChar = CurrUsage * Rate;
 Subtotal = CurrPeriChar + CustCharge;
 FuelIPP = CurrUsage * 21.794;
 FEAdjust = Subtotal * FuelRate;
 
+
+
 Console.Clear();
 
-Console.WriteLine("Account # " +  customer.AccNum);
-Console.WriteLine("Name       " + customer.FirstName + customer.LastName);
-Console.WriteLine("Premises # " + customer.PremNum);
-Console.WriteLine("*************************************************************************************************** /n");
+Console.WriteLine("Account # {0,10}",  customer.AccNum);
+Console.WriteLine("Name {0,15} {1,1}", customer.FirstName, customer.LastName);
+Console.WriteLine("Premises # {0,5}", customer.PremNum);
+Console.WriteLine(("").PadRight(35, '-'));
+
+BeforeTax beforeTax = new BeforeTax();
+Console.WriteLine(beforeTax.BeforeTa(Subtotal,FEAdjust,FuelIPP));
