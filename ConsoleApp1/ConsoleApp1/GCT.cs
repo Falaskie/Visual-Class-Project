@@ -9,11 +9,11 @@ namespace BillPay
     public class GCT
     {
        private double rate = 0.165;
-        int CurrUsage = 0;
+        double CurrUsage = 0;
 
        
 
-        public double GC(int usage)
+        public double GC(double usage)
         {
             CurrUsage = usage;
             if (CurrUsage > 150)
