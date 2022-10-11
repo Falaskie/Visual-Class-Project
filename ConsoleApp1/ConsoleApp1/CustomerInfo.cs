@@ -12,6 +12,8 @@ namespace BillPay
       public string LastName  { get; set ;}
       public string AccNum { get; set; }
       public string PremNum  {get; set;}
+      public string DueDate { get; set; }
+      public string Address { get; set; }  
 
        public CustomerInfo()
         {

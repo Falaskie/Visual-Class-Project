@@ -10,19 +10,20 @@ namespace BillPay
     {
        private double rate = 0.165;
         double CurrUsage = 0;
-
+        double gross;
        
 
-        public double GC(double usage)
+        public double GC(double usage, double Gross)
         {
             CurrUsage = usage;
-            if (CurrUsage > 150)
+            gross = Gross;
+            if (CurrUsage < 150)
             {
-                return Math.Round((CurrUsage * 0.165), 2);
+                return 0.0;
             }
             else
             {
-                return 0.0;
+                return Math.Round((gross * rate), 2);
             }
             
         }
